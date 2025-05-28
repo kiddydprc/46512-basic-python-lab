@@ -1,2 +1,2 @@
 # 46512-basic-python-lab
-
+# Hi, I’m Supakorn Ratchadapon or you can call me Kiddy. I'm a 15-year-old in the Technology Excellence Program with a passion for coding, math, and hands-on problem solving. I enjoy learning through trial and error and believe steady progress matters more than perfection. Though I’m naturally quiet, I value deep collaboration and aim to use technology to create real, meaningful impact :3
