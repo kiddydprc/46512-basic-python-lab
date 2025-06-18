@@ -1,0 +1,1 @@
+price = float(price.strip()) #
