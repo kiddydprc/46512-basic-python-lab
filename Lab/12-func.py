@@ -1,4 +1,4 @@
-def cal():
-    print("Hai")
+def cal(x):
+    print(x+7)
 
-cal()
+cal(41)
